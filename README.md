@@ -1,4 +1,4 @@
 # demo
 my first git repository
 <br>
-Author- Vatsal Jindal
+Author- Vatsal Jindal(BITS Pilani)
